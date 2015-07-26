@@ -3,3 +3,6 @@ This repositary is for the project for Developing Data Products Course. This cre
 
 The URL for the hosted shiny App is: https://praveerroy.shinyapps.io/DDPShiny
 
+
+The URL for the hosted R-Presentation is: http://rpubs.com/praveerroy/DDPShiny
+
