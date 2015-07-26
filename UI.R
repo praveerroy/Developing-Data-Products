@@ -16,7 +16,7 @@ tags$ul(
 tags$li('BMI <18.5       : Underweight'),
 tags$li('BMI [18.5-24.9] : Normal weight'),
 tags$li('BMI [25-29.9]   : Overweight'),
-tags$li('BMI >=30        : Obesity')
+tags$li('BMI >=30        : Obese')
 )
 ),
       
